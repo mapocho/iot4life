@@ -1,0 +1,21 @@
+{
+  "posts": [{
+        "Fecha_C" : "20190701", 
+        "Doc_Ref" : "12333122",
+        "Nro_Pedido" : "123321", 
+        "Pedido_Pos" : "0002", 
+        "Items" : [{
+                "Material" : "18", 
+                "Centro" : "S001", 
+                "Almacén" : "0003", 
+                "Lote" : "LOT12", 
+                "Cantidad" : 90, 
+                "UM_Cant" : "PI", 
+                "Peso" : 123.9, 
+                "UM_Peso" : "KG"
+        }]
+  }],
+  "profile": {
+    "name": "typicode"
+  }
+}
