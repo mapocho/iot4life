@@ -1,5 +1,5 @@
 {
-  "posts": {
+  "posts": [{
         "Fecha_C" : "20190701", 
         "Doc_Ref" : "12333122",
         "Nro_Pedido" : "123321", 
@@ -14,7 +14,7 @@
                 "Peso" : 123.9, 
                 "UM_Peso" : "KG"
         }]
-  },
+  }],
   "profile": {
     "name": "typicode"
   }
